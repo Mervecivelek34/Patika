@@ -8,4 +8,4 @@ Html_03 Klasörü: Html-Bölüm Sonu Çalışması2
 <br>
 Html_04 Klasörü: Html-Ödev3-Çikolatalı Küp Tarifii
 <br>
-Css_01 Klasörü:  Css-Ödev1-Sayfamıza Biraz Makyaj Yapalım
+Css_01 Klasörü:  Css-Ödev1-Sayfamıza Biraz Makyaj Yapalım  
