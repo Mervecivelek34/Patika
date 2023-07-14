@@ -1,4 +1,5 @@
-# Patika
+# Patika 
+Frontend Web Patikaları - Başlangıç Seviye Frontend Web Development Patikası
 <br>
 Html_01 Klasörü: Html-Ödev1-İlk Web Sayfamızı Oluşturmak
 <br>
