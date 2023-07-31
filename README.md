@@ -12,4 +12,4 @@ Html_04 Klasörü: Html-Ödev3-Çikolatalı Küp Tarifii
 Css_01 Klasörü: Css-Ödev1-Sayfamıza Biraz Makyaj Yapalım  
 Css_02 Klasörü: Css-Ödev2- Google 1998 Ana Sayfasını Tasarlamak
 <br>
-Css_03 Klasörü: Css-Ödev3- Güncel Google Ana Sayfasını Tasarlamak
+Css_03 Klasörü: Css-Ödev3- Güncel Google Ana Sayfasını TasarlamakCss_03 Klasörü: Css-Ödev3- Güncel Google Ana Sayfasını Tasarlamak
