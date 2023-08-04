@@ -14,6 +14,8 @@ Css_02 Klasörü: Css-Ödev2- Google 1998 Ana Sayfasını Tasarlamak
 <br>
 Css_03 Klasörü: Css-Ödev3- Güncel Google Ana Sayfasını Tasarlamak
 <br>
+Bootstrap_01 Klasörü: Bootstrap-Ödev1-Bootstrap Özelliklerini Kullanarak Yaptığımız Siteyi Geliştirme
+<br>
 Veri_Yapilari_ve_Algoritmalar: Proje1-Selection Sort Projesi
 <br>
 Veri_Yapilari_ve_Algoritmalar: Proje2-Merge Sort Projesi
